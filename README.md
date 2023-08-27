@@ -4,6 +4,7 @@ UI Testing using Cypress
 
 How to run :
 GUI : npx cypress open
+
 Terminal : npx cypress run
 
 documents that contain test scenario, test step and evidence ( photo and video link ) :
