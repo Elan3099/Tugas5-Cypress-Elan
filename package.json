@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^12.17.4"
+  },
+  "name": "tugas05_cypress_elan",
+  "version": "1.0.0",
+  "description": "Tugas 5 UI automation use Cypress",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elan",
+  "license": "ISC"
+}
